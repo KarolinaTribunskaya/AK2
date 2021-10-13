@@ -1,5 +1,11 @@
 #include "calculator.h"
-
+/*
+comment
+Tribunskaya Karolina
+IV-93
+AK Lab1
+14.10.2021
+*/
 int Calculator::Add (double a, double b)
 {
 <<<<<<< HEAD
